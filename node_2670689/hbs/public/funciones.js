@@ -1,0 +1,3 @@
+const cargar =() => {
+    alert('Cargando...');
+}
